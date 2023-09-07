@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
-*program that prints out multiple values representing
-*size of data types
-*main – prints size of multiple data types
+*main – Entry point
 *in 32 and 64
 *Return: always 0
 */
