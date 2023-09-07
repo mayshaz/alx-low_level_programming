@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+*program that prints out multiple values representing
+*size of data types
 *main – prints size of multiple data types
 *in 32 and 64
 *Return: always 0
