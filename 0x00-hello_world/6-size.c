@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
 *main – prints size of multiple data types
-*Return – always 0;
+*in 32 and 64
+*Return: always 0
 */
 int main(void)
 {
