@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
-*main – prints size of multiple data types
-*Return – always 0;
+*program that prints out multiple values representing
+*size of data types
+*main – prints out values
+*in 32 and 64
+*Return: always 0
 */
 int main(void)
 {
