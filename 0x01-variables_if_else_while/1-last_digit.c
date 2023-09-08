@@ -5,7 +5,7 @@
 /* betty style doc for function main goes there */
 /**
 *main - gives info about last digit of a number
-*return - always 0
+*return: always 0
 */
 int main(void)
 {
